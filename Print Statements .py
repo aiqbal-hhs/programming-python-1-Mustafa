@@ -6,4 +6,4 @@ age = input("How old are you?")
 print(age)
 address = input("What is your address?")
 print(address)
-print("{}is{}and lives in this address{}.". fromat("name", "age", "address"))
+
