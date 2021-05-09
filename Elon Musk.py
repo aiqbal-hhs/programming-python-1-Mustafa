@@ -1,0 +1,8 @@
+name = input("What is his name?")
+age = input("How old is Elon Musk?")
+childrens = input("How many children does he have?")
+sibling = input("What is his sibling name?")
+nationality = input("What is his nationality?")
+occupation = input("What does does he do in life, what is his job?")
+networth = input("How much does Elon Musk worth?")
+print("{} is {} years old. His nationality ({}) He have {} sibling and {} childrens. Elon Musk net worth {}, his job {}.".format(name, age, nationality, sibling, childrens, networth, occupation))
